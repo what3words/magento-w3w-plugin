@@ -1,4 +1,4 @@
-# Magento 1 & 2 what3words Plugin
+# <img src="https://what3words.com/assets/images/w3w_square_red.png" width="32" height="32" alt="what3words">&nbsp; Magento 1 & 2 what3words Plugin
 
 Easily capture 3 word addresses on your Magento storefront with the 3 word address Magento 1 & 2 plugins by what3words.
 
